@@ -1,0 +1,25 @@
+body{
+    overflow-x: hidden;
+}
+.box{
+    background-color: rgb(134, 128, 128);
+    margin: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.head{
+    margin: 1%;
+    font-size: 20px;
+    font-weight: bold;
+}
+.txt{
+    margin: 2%;
+}
+.menu{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 2%;
+}
+a{
+    background-color: rgb(87, 77, 77) !important;
+}
